@@ -36,10 +36,10 @@ const cuong = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cuongdevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6" />
+<img height="170" src="https://github-readme-stats-cuongdevv.vercel.app/api?username=cuongdevv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=cuongdevv&theme=tokyonight&hide_border=true&background=1A1B27&stroke=1A1B27&ring=7AA2F7&fire=BB9AF7&currStreakNum=A9B1D6&sideNums=A9B1D6&currStreakLabel=7AA2F7&sideLabels=A9B1D6&dates=A9B1D6" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongdevv&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=A9B1D6&langs_count=8" />
+<img src="https://github-readme-stats-cuongdevv.vercel.app/api/top-langs/?username=cuongdevv&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=A9B1D6&langs_count=8" />
 
 </div>
 
