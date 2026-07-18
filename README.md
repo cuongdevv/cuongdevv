@@ -49,12 +49,6 @@ const cuong = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuongdevv&theme=tokyo-night&bg_color=1A1B27&color=7AA2F7&line=BB9AF7&point=A9B1D6&area=true&area_color=7AA2F7&hide_border=true&custom_title=Commits%20over%20time" />
 </div>
 
-### 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cuongdevv&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=7AA2F7&text_color=A9B1D6" />
-</div>
-
 ### 🐍 Contribution Snake
 
 <div align="center">
